@@ -2,6 +2,8 @@
 
 Small local Obsidian plugin that adds a "New note" button to the left ribbon.
 
+Repository: [leruetkins/new-note-np](https://github.com/leruetkins/new-note-np)
+
 ## Install locally
 
 Copy this folder to your vault:

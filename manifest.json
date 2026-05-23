@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
   "description": "Adds a Create new note button back to the left ribbon.",
-  "author": "leruetkins@gmail.com",
+  "author": "leruetkins",
+  "authorUrl": "https://github.com/leruetkins",
   "isDesktopOnly": false
 }
